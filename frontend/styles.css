@@ -1,0 +1,92 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #004080;
+  color: white;
+  padding: 10px 20px;
+}
+
+nav h2 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+  display: flex;
+  gap: 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+.login-container {
+  width: 300px;
+  margin: 100px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.login-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login-container label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 7px;
+  margin-bottom: 10px;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 10px;
+  background: #004080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-container button:hover {
+  background: #0066cc;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.map-box {
+  margin-top: 20px;
+  padding: 20px;
+  background: #e0e0e0;
+  text-align: center;
+  border-radius: 5px;
+}

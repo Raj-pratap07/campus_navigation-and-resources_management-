@@ -1,0 +1,4 @@
+Projector,1
+CSE Lab PC,5
+Meeting Room,1
+Cricket Bat,2

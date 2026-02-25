@@ -1,0 +1,4 @@
+admin,admin123,admin
+alice,alice123,student
+bob,bob123,student
+parth,joshi,student
