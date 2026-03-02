@@ -1,6 +1,6 @@
 # Campus Navigation & Resource Management System
 
-Designed and implemented a Campus Navigation & Resource Management System using Data Structures in C as an academic project.
+Designed and implemented a Campus Navigation & Resource Management System using Data Structures in C as a project.
 
 The system focuses on solving real campus problems such as finding shortest paths between buildings and managing shared resources like classrooms, labs, and buses.
 
